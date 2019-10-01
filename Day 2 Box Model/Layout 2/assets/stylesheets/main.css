@@ -1,0 +1,105 @@
+#largebox {
+    width: 600px;
+    height: 250px;
+    background: coral;
+    float: left;
+    margin-left: 4%;
+    margin-top: 2%;
+    font-size: 30px;
+}
+
+.material{
+    width: 300px;
+    height: 250px;
+    background: darkgreen;
+    margin-top: 2%;
+    margin-right: 4%;
+    margin-left: 2%;
+    float: left; 
+    font-size: 30px;
+}
+
+.doodle {
+    width: 300px;
+    height: 250px;
+    background: purple;
+    margin-top: 2%;
+    margin-right: 4%;
+    margin-left: 1%;
+    /* float: right;   */
+    font-size: 30px;
+    display:inline-block;
+}
+
+
+
+/* Box row 2 */
+
+.google{
+    width: 300px;
+    height: 250px;
+    background: blueviolet;
+    margin-top: 2%;
+    margin-right: 4%;
+    margin-left: 2%;
+    float: left; 
+    font-size: 30px;
+}
+
+.design {
+    width: 600px;
+    height: 250px;
+    background: lightblue;
+    float: left;
+    margin-left: 4%;
+    margin-top: 2%;
+    font-size: 30px;
+}
+
+.glass {
+    width: 300px;
+    height: 250px;
+    background: limegreen;
+    margin-top: 2%;
+    margin-right: 4%;
+    margin-left: 1%;
+    float: right; 
+    font-size: 30px;
+}
+
+
+/* Box row 3 */
+
+.html{
+    width: 300px;
+    height: 250px;
+    background: rgb(209, 212, 12);
+    margin-top: 2%;
+    margin-right: 4%;
+    margin-left: 2%;
+    float: left;
+    font-size: 30px;
+    
+}
+.css {
+    width: 300px;
+    height: 250px;
+    background: purple;
+    margin-top: 2%;
+    margin-right: 4%;
+    margin-left: 1%;
+    /* float: left;  */
+    font-size: 30px;
+    display:inline-block;  
+}
+
+.java{
+    width: 600px;
+    height: 250px;
+    background: red;
+    /* float: right; */
+    margin-left: 4%;
+    margin-top: 2%;
+    font-size: 30px;
+    display:inline-block;
+}
