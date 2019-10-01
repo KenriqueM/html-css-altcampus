@@ -1,0 +1,5 @@
+1. link1: use relative path to connect the other page on the same website.
+2. link2: use absolute path to connect different website and open it in another window.
+3. link3: link to the third column on the same page using id attribute.
+
+

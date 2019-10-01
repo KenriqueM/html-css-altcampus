@@ -1,0 +1,51 @@
+.firstpara {
+    background: purple;
+    text-align: center;
+    word-spacing: 5px;
+    padding: 8px;
+}
+
+.firstpara a{
+    color: white;
+}
+
+/* paragraph */
+
+.secondpara {
+    text-align: center;
+}
+
+.thirdpara {
+    text-align: center;
+}
+
+.thirdpara3 {
+    background: silver;
+    padding: 5px;
+}
+.fourthpara {
+    text-align: center;
+}
+
+.fifthpara {
+    text-align: center;
+}
+
+.fifthpara5 {
+    background: lime;
+    padding: 5px;
+}
+ 
+/* footer */
+
+.sixthpara {
+    text-align: center;
+}
+.social {
+    word-spacing: 5px;
+}
+
+.foot {
+    background: aqua;
+    padding: 10px;
+}
